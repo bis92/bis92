@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm InseobByun</h1>
-<h3 align="center">A passionate web fullstack developer from South Korea</h3>
-
+<h3 align="center">A passionate web fullstack developer from South Korea, Seoul</h3>
+<img src="https://github.com/user-attachments/assets/02948caa-e0c3-4c4c-8901-fad80cdb1513" height="350px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bis92&label=Profile%20views&color=0e75b6&style=flat" alt="bis92" /> </p>
 
 - 🌱 I’m currently learning **next.js**
